@@ -103,7 +103,7 @@
     NSMutableString *body = nil;
 
     if (tags != nil) {
-        body = [NSMutableString stringWithFormat:@"token=%@&device_token=%@&tag=%@", SN_ACCESS_TOKEN, deviceTokenString,tags];
+        body = [NSMutableString stringWithFormat:@"token=%@&device_token=%@&tags=%@", SN_ACCESS_TOKEN, deviceTokenString,tags];
         
     }else{
         body = [NSMutableString stringWithFormat:@"token=%@&device_token=%@", SN_ACCESS_TOKEN, deviceTokenString];
