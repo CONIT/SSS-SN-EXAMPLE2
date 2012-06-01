@@ -1,0 +1,27 @@
+SamuraiNotification用の
+iOS Push通知サンプルプログラムです。
+
+サンプル２では、送信グループを分けて送信する場合などに使う、
+タグ機能を使ったサンプルです。
+
+API Reference
+http://sss-developer.conit.jp/samurai_notification/api/devices.html
+
+
+=====
+株式会社コニット
+http://www.conit.co.jp/
+
+Samurai Smartphont Services
+http://www.conit.jp/
+
+Blog
+http://www.conit.co.jp/conitlabs/
+
+Facebook
+https://www.facebook.com/conit.fan
+
+Twitter
+https://twitter.com/#!/conit
+
+
